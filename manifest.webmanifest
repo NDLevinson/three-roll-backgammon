@@ -1,0 +1,8 @@
+{
+  "name": "Three Roll Backgammon",
+  "short_name": "3 Roll BG",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4efe5",
+  "theme_color": "#1f4d3a"
+}
